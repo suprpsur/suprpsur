@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suprpsur
 - 👀 I’m interested in computer
-- 🌱 I’m currently learning python and c/c++
+- 🌱 I’m currently learning python and c
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me: psur on discord, suryachamy on instagram
 
